@@ -1472,6 +1472,13 @@ ul {
         min-height: 100vh;
         padding: 2rem 1rem;
     }
+
+
+    .gallery-main img {
+        width: 100%;
+        height: 100%;
+        object-fit: contain;
+    }
     
     .benzaid-logo {
         font-size: 2.5rem;
